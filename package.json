@@ -1,0 +1,25 @@
+{
+  "name": "freebie-real-estate-landing-page-design",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuduynhiennn/Freebie-Real-Estate-Landing-Page-Design.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vuduynhiennn/Freebie-Real-Estate-Landing-Page-Design/issues"
+  },
+  "homepage": "https://github.com/vuduynhiennn/Freebie-Real-Estate-Landing-Page-Design#readme",
+  "devDependencies": {
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.4.4",
+    "tailwindcss": "^2.2.19"
+  }
+}
