@@ -17,6 +17,16 @@ Use a better box model (opinionated).
   box-sizing: border-box;
 }
 
+.right {
+  width: 460px;
+  height: 841px;
+  top: -200px;
+  right: 0px;
+  background-color: #BDCCFF ;
+  z-index: 0;
+  opacity: 0.6;
+}
+
 /**
 Use a more readable tab size (opinionated).
 */
